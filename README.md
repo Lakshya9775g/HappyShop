@@ -22,18 +22,28 @@ Cart page
 login page
 
 ![login page](https://user-images.githubusercontent.com/85622448/125076149-30706a80-e0dd-11eb-830a-245b3bf4ca18.png)
+
 ## Features
 
-Implemented
 ### Frontend
 We have used HTML and CSS for creating and designing the Frontend part of our site.
-In HTML we include Header, Body, Footer, having mnay sub containers.
 
- In css we use background flexboxes, border styling, text coloring, Diffrent Hover properties and many more things
+In HTML we include:
+i) Header,
+ii) Body,
+iii) Footer,
+etc
+all having many sub containers within.
+
+In css we use:
+i)background flexboxes,
+ii)border styling,
+iii) text coloring,
+iv) Diffrent Hover properties,
+ and many more awesome properties of css.
 
 ### Backend
 NILL
-
 
   
 ## Team Members
