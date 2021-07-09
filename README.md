@@ -15,11 +15,15 @@ Screenshots of homepage of our website------
 
   ![homepage3](https://user-images.githubusercontent.com/85622448/125075615-7c6edf80-e0dc-11eb-9c42-8e87fa1d70fc.png)
 
-Cart page
+
+Cart page---------
+
 
 ![cart page](https://user-images.githubusercontent.com/85622448/125076134-2babb680-e0dd-11eb-9938-f6bf55c02501.png)
 
-login page
+
+login page---------
+
 
 ![login page](https://user-images.githubusercontent.com/85622448/125076149-30706a80-e0dd-11eb-830a-245b3bf4ca18.png)
 
